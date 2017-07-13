@@ -166,6 +166,7 @@ export default class WaveSurfer extends util.Observer {
     defaultParams = {
         audioContext  : null,
         audioRate     : 1,
+        barHeight     : 1,
         autoCenter    : true,
         backend       : 'WebAudio',
         container     : null,
