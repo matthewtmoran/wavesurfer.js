@@ -1425,7 +1425,7 @@ var MultiCanvas = function (_Drawer) {
             var gap = Math.max(this.params.pixelRatio, ~~(bar / 2));
             var step = bar + gap;
 
-            var absmax = 1 / this.params.barHeight;
+            var absmax = 1;
             if (this.params.normalize) {
                 var max = util.max(peaks);
                 var min = util.min(peaks);
@@ -1493,7 +1493,7 @@ var MultiCanvas = function (_Drawer) {
             var offsetY = height * channelIndex || 0;
             var halfH = height / 2;
 
-            var absmax = 1 / this.params.barHeight ;
+            var absmax = 1;
             if (this.params.normalize) {
                 var max = util.max(peaks);
                 var min = util.min(peaks);
