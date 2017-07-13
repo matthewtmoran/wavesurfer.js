@@ -1,5 +1,5 @@
 /*!
- * wavesurfer.js 2.0.0-beta01 (Thu Jul 13 2017 09:28:48 GMT-0500 (Central Daylight Time))
+ * wavesurfer.js 2.0.0-beta01 (Thu Jul 13 2017 09:53:55 GMT-0500 (Central Daylight Time))
  * https://github.com/katspaugh/wavesurfer.js
  * @license CC-BY-3.0
  */
@@ -446,9 +446,9 @@ var WebAudio = function (_util$Observer) {
         key: 'createScriptNode',
         value: function createScriptNode() {
             if (this.ac.createScriptProcessor) {
-                this.scriptNode = this.ac.createScriptProcessor(WebAudio.scriptBufferSize);
+                this.scriptNode = this.ac.createScriptProcessor(this.scriptBufferSize);
             } else {
-                this.scriptNode = this.ac.createJavaScriptNode(WebAudio.scriptBufferSize);
+                this.scriptNode = this.ac.createJavaScriptNode(this.scriptBufferSize);
             }
 
             this.scriptNode.connect(this.ac.destination);
@@ -1493,7 +1493,7 @@ var MultiCanvas = function (_Drawer) {
             var offsetY = height * channelIndex || 0;
             var halfH = height / 2;
 
-            var absmax = 1 / this.params.barHeight;
+            var absmax = 1 / this.params.barHeight;;
             if (this.params.normalize) {
                 var max = util.max(peaks);
                 var min = util.min(peaks);
@@ -2622,7 +2622,7 @@ var Drawer = function (_util$Observer) {
         value: function destroy() {
             this.unAll();
             if (this.wrapper) {
-                if (this.wrapper.parentNode == this.container) this.container.removeChild(this.wrapper);
+                this.container.removeChild(this.wrapper);
                 this.wrapper = null;
             }
         }
@@ -3186,9 +3186,9 @@ var WaveSurfer = function (_util$Observer) {
         _this.defaultParams = {
             audioContext: null,
             audioRate: 1,
-            barHeight: 1,
             autoCenter: true,
             backend: 'WebAudio',
+            barHeight: 1,
             container: null,
             cursorColor: '#333',
             cursorWidth: 1,

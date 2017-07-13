@@ -30,8 +30,7 @@ class Region {
 
         this.bindInOut();
         this.render();
-        this.onZoom = this.updateRender.bind(this);
-        this.wavesurfer.on('zoom', this.onZoom);
+        this.wavesurfer.on('zoom', () => this.updateRender());
         this.wavesurfer.fireEvent('region-created', this);
 
     }
@@ -80,7 +79,7 @@ class Region {
             this.wrapper.removeChild(this.element);
             this.element = null;
             this.fireEvent('remove');
-            this.wavesurfer.un('zoom', this.onZoom);
+            this.wavesurfer.un('zoom', pxPerSec => this.updateRender(pxPerSec));
             this.wavesurfer.fireEvent('region-removed', this);
         }
     }
@@ -151,14 +150,15 @@ class Region {
         ].join(':')).join('-');
     }
 
-    getWidth() {
-        return this.wavesurfer.drawer.width / this.wavesurfer.params.pixelRatio;
-    }
-
     /* Update element's position, width, color. */
-    updateRender() {
+    updateRender(pxPerSec) {
         const dur = this.wavesurfer.getDuration();
-        const width = this.getWidth();
+        let width;
+        if (pxPerSec) {
+            width = Math.round(this.wavesurfer.getDuration() * pxPerSec);
+        } else {
+            width = this.wrapper.scrollWidth;
+        }
 
         if (this.start < 0) {
             this.start = 0;
@@ -489,7 +489,7 @@ export default class RegionsPlugin {
                 });
             }
             if (this.params.dragSelection) {
-                this.enableDragSelection(this.params);
+                this.enableDragSelection(this.params.dragSelection);
             }
         };
     }
