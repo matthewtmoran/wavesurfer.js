@@ -1,30 +1,35 @@
 {
-  "name": "wavesurfer.js",
-  "version": "2.0.0-beta01",
-  "description": "Interactive navigable audio visualization using Web Audio and Canvas",
-  "main": "dist/wavesurfer.min.js",
-  "directories": {
-    "example": "example"
+  "_from": "wavesurfer.js@2.0.0-beta01",
+  "_id": "wavesurfer.js@2.0.0-beta01",
+  "_inBundle": false,
+  "_integrity": "sha1-vr56I0YFrMTTyngVGDj9szCE5d0=",
+  "_location": "/wavesurfer.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "wavesurfer.js@2.0.0-beta01",
+    "name": "wavesurfer.js",
+    "escapedName": "wavesurfer.js",
+    "rawSpec": "2.0.0-beta01",
+    "saveSpec": null,
+    "fetchSpec": "2.0.0-beta01"
   },
-  "scripts": {
-    "start": "webpack --env.plugins && webpack --env.htmlinit && webpack-dev-server",
-    "start:htmlinit": "webpack && webpack --env.plugins && webpack-dev-server --env.htmlinit",
-    "start:plugins": "webpack && webpack --env.htmlinit && webpack-dev-server --env.plugins",
-    "build": "npm run build:normal & npm run build:minified",
-    "build:normal": "webpack & webpack --env.plugins & webpack --env.htmlinit",
-    "build:minified": "webpack --env.minify & webpack --env.plugins --env.minify & webpack --env.htmlinit --env.minify",
-    "doc": "esdoc",
-    "test": "BABEL_ENV=test karma start karma.conf.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/katspaugh/wavesurfer.js.git"
-  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wavesurfer.js/-/wavesurfer.js-2.0.0-beta01.tgz",
+  "_shasum": "bebe7a234605acc4d3ca78151838fdb33084e5dd",
+  "_spec": "wavesurfer.js@2.0.0-beta01",
+  "_where": "C:\\xampp\\htdocs\\development\\_moranmedia\\glossa",
   "author": "",
-  "license": "CC-BY-3.0",
   "bugs": {
     "url": "https://github.com/katspaugh/wavesurfer.js/issues"
   },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Interactive navigable audio visualization using Web Audio and Canvas",
   "devDependencies": {
     "babel-core": "^6.18.2",
     "babel-eslint": "^7.1.1",
@@ -46,10 +51,31 @@
     "karma-coverage": "^1.1.1",
     "karma-jasmine": "1.0.2",
     "karma-jasmine-matchers": "3.0.1",
-    "load-script": "^1.0.0",
     "karma-webpack": "^2.0.2",
+    "load-script": "^1.0.0",
     "webpack": "2",
     "webpack-dev-server": "2"
   },
-  "homepage": "https://github.com/katspaugh/wavesurfer.js"
+  "directories": {
+    "example": "example"
+  },
+  "homepage": "https://github.com/katspaugh/wavesurfer.js",
+  "license": "CC-BY-3.0",
+  "main": "dist/wavesurfer.min.js",
+  "name": "wavesurfer.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/katspaugh/wavesurfer.js.git"
+  },
+  "scripts": {
+    "build": "npm run build:normal & npm run build:minified",
+    "build:minified": "webpack --env.minify & webpack --env.plugins --env.minify & webpack --env.htmlinit --env.minify",
+    "build:normal": "webpack & webpack --env.plugins & webpack --env.htmlinit",
+    "doc": "esdoc",
+    "start": "webpack --env.plugins && webpack --env.htmlinit && webpack-dev-server",
+    "start:htmlinit": "webpack && webpack --env.plugins && webpack-dev-server --env.htmlinit",
+    "start:plugins": "webpack && webpack --env.htmlinit && webpack-dev-server --env.plugins",
+    "test": "BABEL_ENV=test karma start karma.conf.js"
+  },
+  "version": "2.0.0-beta01"
 }

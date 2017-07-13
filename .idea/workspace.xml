@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34e85e22-5ae0-449b-820f-d0eab9dca414" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.esdoc.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGES.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.microphone.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.spectrogram.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.timeline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/wavesurfer-html-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/wavesurfer-html-init.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/wavesurfer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/wavesurfer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/md-player-audio.partial.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/md-player.partial.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/wavesurfer.directive.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/annotation/annotations.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/annotation/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/annotation/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/annotation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/annotation/rashomon.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/audio-element/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/audio-element/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/css/doc.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/css/ribbon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/cursor/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/cursor/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan/css/elan.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan/transcripts/001z.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan/transcripts/001z.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/equalizer/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/equalizer/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/html-init/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/media/demo.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/media/demo_video.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/microphone/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/microphone/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/mute/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/mute/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/panner/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/panner/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/panner/media.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/playlist/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/playlist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/plugin-system/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/plugin-system/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/regions/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/regions/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/spectrogram/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/spectrogram/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/split-channels/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/split-channels/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/split-channels/stereo.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/timeline/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/timeline/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/trivia.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/video-element/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/video-element/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/zoom/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/example/zoom/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/peakcache.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/plugin-api.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/support/demo.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/util.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/wavesurfer.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/drawer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/drawer.multicanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/html-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/mediaelement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/peakcache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugin/cursor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugin/elan.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugin/microphone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugin/minimap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugin/regions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugin/spectrogram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/plugin/timeline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/extend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/get-id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/max.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/observer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/util/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/wavesurfer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/webaudio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/webpack.config.babel.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.cursor.min.js" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.cursor.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.elan.min.js" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.elan.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.minimap.min.js" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.minimap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.regions.min.js" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.regions.min.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="wavesurfer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/wavesurfer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3465">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1323">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1296">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drawer.multicanvas.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/drawer.multicanvas.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="256" column="18" lean-forward="false" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>drawBars</find>
+      <find>l</find>
+      <find>le</find>
+      <find>let</find>
+      <find>let absmax</find>
+      <find>barHeight</find>
+      <find>draw</find>
+      <find>absmax</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\htdocs\development\customLibraries\wavesurfer.js\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dist/wavesurfer.min.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/wavesurfer.js" />
+        <option value="$PROJECT_DIR$/src/drawer.multicanvas.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="C:\htdocs\development\customLibraries\wavesurfer.js\node_modules\eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\htdocs\development\customLibraries\wavesurfer.js\src" />
+      <recent name="C:\htdocs\development\customLibraries\wavesurfer.js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34e85e22-5ae0-449b-820f-d0eab9dca414" name="Default" comment="" />
+      <created>1499955581052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499955581052</updated>
+      <workItem from="1499955582309" duration="2758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2758000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/drawer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.babel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wavesurfer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="846" column="31" lean-forward="false" selection-start-line="846" selection-start-column="27" selection-end-line="846" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/wavesurfer.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="5" column="15809" lean-forward="false" selection-start-line="5" selection-start-column="15800" selection-end-line="5" selection-end-column="15809" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/wavesurfer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3465">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1323">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1296">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/drawer.multicanvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="256" column="18" lean-forward="false" selection-start-line="256" selection-start-column="12" selection-end-line="256" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

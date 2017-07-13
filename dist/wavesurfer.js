@@ -1,5 +1,5 @@
 /*!
- * wavesurfer.js 2.0.0-beta01 (Thu Jul 13 2017 09:53:55 GMT-0500 (Central Daylight Time))
+ * wavesurfer.js 2.0.0-beta01 (Tue May 02 2017 19:46:40 GMT+0200 (CEST))
  * https://github.com/katspaugh/wavesurfer.js
  * @license CC-BY-3.0
  */
@@ -1493,7 +1493,7 @@ var MultiCanvas = function (_Drawer) {
             var offsetY = height * channelIndex || 0;
             var halfH = height / 2;
 
-            var absmax = 1 / this.params.barHeight;;
+            var absmax = 1 / this.params.barHeight ;
             if (this.params.normalize) {
                 var max = util.max(peaks);
                 var min = util.min(peaks);
@@ -3188,7 +3188,6 @@ var WaveSurfer = function (_util$Observer) {
             audioRate: 1,
             autoCenter: true,
             backend: 'WebAudio',
-            barHeight: 1,
             container: null,
             cursorColor: '#333',
             cursorWidth: 1,
@@ -3214,10 +3213,12 @@ var WaveSurfer = function (_util$Observer) {
             scrollParent: false,
             skipLength: 2,
             splitChannels: false,
-            waveColor: '#999' };
+            waveColor: '#999'
+        };
         _this.backends = {
             MediaElement: _mediaelement2.default,
-            WebAudio: _webaudio2.default };
+            WebAudio: _webaudio2.default
+        };
         _this.util = util;
         _this.params = util.extend({}, _this.defaultParams, params);
 

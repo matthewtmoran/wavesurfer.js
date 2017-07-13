@@ -168,7 +168,6 @@ export default class WaveSurfer extends util.Observer {
         audioRate     : 1,
         autoCenter    : true,
         backend       : 'WebAudio',
-        barHeight : 1,
         container     : null,
         cursorColor   : '#333',
         cursorWidth   : 1,
