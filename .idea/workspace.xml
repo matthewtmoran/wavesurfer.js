@@ -1,168 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34e85e22-5ae0-449b-820f-d0eab9dca414" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/wavesurfer.js.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.cursor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.cursor.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.cursor.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.elan-wave-segment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.elan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.elan.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.elan.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.mediasession.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.microphone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.microphone.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.microphone.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.minimap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.minimap.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.minimap.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.playlist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.regions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.regions.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.regions.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.spectrogram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.spectrogram.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.spectrogram.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.timeline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.timeline.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.timeline.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/wavesurfer-html-init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/wavesurfer-html-init.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/wavesurfer-html-init.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/wavesurfer-html-init.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/wavesurfer.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/plugin/cursor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/plugin/elan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/plugin/minimap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/plugin/regions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/plugin/spectrogram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/plugin/timeline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/extend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/get-id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/max.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/observer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/util/style.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.cursor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.elan-wave-segment.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.elan.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.mediasession.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.minimap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.playlist.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.regions.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/md-player-audio.partial.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/md-player.partial.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular-material/wavesurfer.directive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/angular/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/annotation/annotations.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/annotation/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/annotation/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/annotation/rashomon.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/audio-element/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/css/ribbon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan-wave-segment/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan-wave-segment/css/elan.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan-wave-segment/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan/css/elan.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan/transcripts/001z.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/elan/transcripts/001z.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/equalizer/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/media-session/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/media-session/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/media/demo.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/media/demo_video.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/microphone/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/mute/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/panner/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/panner/media.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/playlist/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/regions/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/screenshot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/spectrogram/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/split-channels/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/split-channels/stereo.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/split-wave-point-plot/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/split-wave-point-plot/hobbit-1a.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/split-wave-point-plot/hobbit-1a.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/split-wave-point-plot/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/timeline/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/trivia.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example/video-element/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/wavesurfer.cursor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/wavesurfer.elan-wave-segment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/wavesurfer.elan.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/wavesurfer.mediasession.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin/wavesurfer.playlist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/peakcache.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/support/demo.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/util.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/drawer.split-wave-point-plot.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin/wavesurfer.microphone.js" afterPath="$PROJECT_DIR$/src/plugin/microphone.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.npmignore" afterPath="$PROJECT_DIR$/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHANGES.md" afterPath="$PROJECT_DIR$/CHANGES.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.microphone.min.js" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.microphone.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.spectrogram.min.js" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.spectrogram.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/plugin/wavesurfer.timeline.min.js" afterPath="$PROJECT_DIR$/dist/plugin/wavesurfer.timeline.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/wavesurfer.js" afterPath="$PROJECT_DIR$/dist/wavesurfer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/wavesurfer.min.js" afterPath="$PROJECT_DIR$/dist/wavesurfer.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/wavesurfer.min.js.map" afterPath="$PROJECT_DIR$/dist/wavesurfer.min.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/angular/index.html" afterPath="$PROJECT_DIR$/example/angular/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/annotation/index.html" afterPath="$PROJECT_DIR$/example/annotation/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/audio-element/index.html" afterPath="$PROJECT_DIR$/example/audio-element/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/elan/index.html" afterPath="$PROJECT_DIR$/example/elan/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/equalizer/index.html" afterPath="$PROJECT_DIR$/example/equalizer/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/microphone/index.html" afterPath="$PROJECT_DIR$/example/microphone/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/mute/index.html" afterPath="$PROJECT_DIR$/example/mute/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/panner/index.html" afterPath="$PROJECT_DIR$/example/panner/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/playlist/index.html" afterPath="$PROJECT_DIR$/example/playlist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/regions/index.html" afterPath="$PROJECT_DIR$/example/regions/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/spectrogram/index.html" afterPath="$PROJECT_DIR$/example/spectrogram/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/split-channels/index.html" afterPath="$PROJECT_DIR$/example/split-channels/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/timeline/index.html" afterPath="$PROJECT_DIR$/example/timeline/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/video-element/index.html" afterPath="$PROJECT_DIR$/example/video-element/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/zoom/index.html" afterPath="$PROJECT_DIR$/example/zoom/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/example/zoom/main.js" afterPath="$PROJECT_DIR$/example/zoom/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/karma.conf.js" afterPath="$PROJECT_DIR$/karma.conf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin/wavesurfer.minimap.js" afterPath="$PROJECT_DIR$/plugin/wavesurfer.minimap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin/wavesurfer.regions.js" afterPath="$PROJECT_DIR$/plugin/wavesurfer.regions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin/wavesurfer.spectrogram.js" afterPath="$PROJECT_DIR$/plugin/wavesurfer.spectrogram.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin/wavesurfer.timeline.js" afterPath="$PROJECT_DIR$/plugin/wavesurfer.timeline.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/wavesurfer.spec.js" afterPath="$PROJECT_DIR$/spec/wavesurfer.spec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/drawer.canvas.js" afterPath="$PROJECT_DIR$/src/drawer.canvas.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/drawer.js" afterPath="$PROJECT_DIR$/src/drawer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/drawer.multicanvas.js" afterPath="$PROJECT_DIR$/src/drawer.multicanvas.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/html-init.js" afterPath="$PROJECT_DIR$/src/html-init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mediaelement.js" afterPath="$PROJECT_DIR$/src/mediaelement.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/peakcache.js" afterPath="$PROJECT_DIR$/src/peakcache.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/util.js" afterPath="$PROJECT_DIR$/src/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/wavesurfer.js" afterPath="$PROJECT_DIR$/src/wavesurfer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/webaudio.js" afterPath="$PROJECT_DIR$/src/webaudio.js" />
-    </list>
+    <list default="true" id="34e85e22-5ae0-449b-820f-d0eab9dca414" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +11,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="wavesurfer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/wavesurfer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="1427" column="20" lean-forward="false" selection-start-line="1427" selection-start-column="16" selection-end-line="1427" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -241,6 +91,38 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="wavesurfer.js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavesurfer.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -355,18 +237,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499955581052</updated>
-      <workItem from="1499955582309" duration="3674000" />
+      <workItem from="1499955582309" duration="3731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3674000" />
+    <option name="totallyTimeSpent" value="3731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -455,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/wavesurfer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2184">
-          <caret line="116" column="26" lean-forward="false" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+        <state relative-caret-position="151">
+          <caret line="1427" column="20" lean-forward="false" selection-start-line="1427" selection-start-column="16" selection-end-line="1427" selection-end-column="20" />
           <folding />
         </state>
       </provider>
