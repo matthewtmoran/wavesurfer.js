@@ -1,81 +1,98 @@
 {
-  "_from": "wavesurfer.js@2.0.0-beta01",
-  "_id": "wavesurfer.js@2.0.0-beta01",
-  "_inBundle": false,
-  "_integrity": "sha1-vr56I0YFrMTTyngVGDj9szCE5d0=",
+  "_args": [
+    [
+      {
+        "raw": "wavesurfer.js@git+https://github.com/matthewtmoran/wavesurfer.js.git",
+        "scope": null,
+        "escapedName": "wavesurfer.js",
+        "name": "wavesurfer.js",
+        "rawSpec": "git+https://github.com/matthewtmoran/wavesurfer.js.git",
+        "spec": "git+https://github.com/matthewtmoran/wavesurfer.js.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:matthewtmoran/wavesurfer.js.git",
+          "sshUrl": "git+ssh://git@github.com/matthewtmoran/wavesurfer.js.git",
+          "httpsUrl": "git+https://github.com/matthewtmoran/wavesurfer.js.git",
+          "gitUrl": "git://github.com/matthewtmoran/wavesurfer.js.git",
+          "shortcut": "github:matthewtmoran/wavesurfer.js",
+          "directUrl": "https://raw.githubusercontent.com/matthewtmoran/wavesurfer.js/master/package.json"
+        }
+      },
+      "C:\\xampp\\htdocs\\development\\sandbox\\glossaES6\\glossa"
+    ]
+  ],
+  "_from": "git+https://github.com/matthewtmoran/wavesurfer.js.git",
+  "_id": "wavesurfer.js@1.4.0",
+  "_inCache": true,
   "_location": "/wavesurfer.js",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "wavesurfer.js@2.0.0-beta01",
-    "name": "wavesurfer.js",
+    "raw": "wavesurfer.js@git+https://github.com/matthewtmoran/wavesurfer.js.git",
+    "scope": null,
     "escapedName": "wavesurfer.js",
-    "rawSpec": "2.0.0-beta01",
-    "saveSpec": null,
-    "fetchSpec": "2.0.0-beta01"
+    "name": "wavesurfer.js",
+    "rawSpec": "git+https://github.com/matthewtmoran/wavesurfer.js.git",
+    "spec": "git+https://github.com/matthewtmoran/wavesurfer.js.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:matthewtmoran/wavesurfer.js.git",
+      "sshUrl": "git+ssh://git@github.com/matthewtmoran/wavesurfer.js.git",
+      "httpsUrl": "git+https://github.com/matthewtmoran/wavesurfer.js.git",
+      "gitUrl": "git://github.com/matthewtmoran/wavesurfer.js.git",
+      "shortcut": "github:matthewtmoran/wavesurfer.js",
+      "directUrl": "https://raw.githubusercontent.com/matthewtmoran/wavesurfer.js/master/package.json"
+    }
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/wavesurfer.js/-/wavesurfer.js-2.0.0-beta01.tgz",
-  "_shasum": "bebe7a234605acc4d3ca78151838fdb33084e5dd",
-  "_spec": "wavesurfer.js@2.0.0-beta01",
-  "_where": "C:\\xampp\\htdocs\\development\\_moranmedia\\glossa",
+  "_resolved": "git+https://github.com/matthewtmoran/wavesurfer.js.git#ffef86e7c0a78a1b736bdba9a1058abe54910ba7",
+  "_shasum": "2272d1baa55c37d6fb8d3169e3c024ba0df10674",
+  "_shrinkwrap": null,
+  "_spec": "wavesurfer.js@git+https://github.com/matthewtmoran/wavesurfer.js.git",
+  "_where": "C:\\xampp\\htdocs\\development\\sandbox\\glossaES6\\glossa",
   "author": "",
   "bugs": {
     "url": "https://github.com/katspaugh/wavesurfer.js/issues"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
+  "dependencies": {},
   "description": "Interactive navigable audio visualization using Web Audio and Canvas",
   "devDependencies": {
-    "babel-core": "^6.18.2",
-    "babel-eslint": "^7.1.1",
-    "babel-loader": "^6.2.7",
-    "babel-plugin-add-module-exports": "^0.2.1",
-    "babel-plugin-istanbul": "^2.0.3",
-    "babel-plugin-transform-class-properties": "^6.22.0",
-    "babel-preset-es2015": "^6.18.0",
-    "babel-preset-es2015-native-modules": "^6.9.4",
-    "babel-preset-stage-0": "^6.22.0",
-    "babel-register": "^6.18.0",
-    "debounce": "^1.0.0",
-    "esdoc": "^0.5.2",
-    "eslint": "^3.9.1",
-    "eslint-loader": "^1.6.1",
-    "jasmine-core": "^2.5.2",
-    "karma": "^1.3.0",
+    "grunt": "^1.0.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": ">=0.4.0",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-jshint": ">=0.10.0",
+    "grunt-contrib-uglify": ">=0.5.0",
+    "grunt-jscs": ">=2.7.0",
+    "grunt-karma": "2.0.0",
+    "grunt-template-jasmine-istanbul": ">=0.3.3",
+    "grunt-umd": ">=2.3.5",
+    "karma": "1.3.0",
     "karma-chrome-launcher": "2.0.0",
-    "karma-coverage": "^1.1.1",
     "karma-jasmine": "1.0.2",
-    "karma-jasmine-matchers": "3.0.1",
-    "karma-webpack": "^2.0.2",
-    "load-script": "^1.0.0",
-    "webpack": "2",
-    "webpack-dev-server": "2"
+    "karma-jasmine-matchers": "3.0.1"
   },
   "directories": {
     "example": "example"
   },
+  "gitHead": "ffef86e7c0a78a1b736bdba9a1058abe54910ba7",
   "homepage": "https://github.com/katspaugh/wavesurfer.js",
-  "license": "CC-BY-3.0",
+  "license": "BSD-3-Clause",
   "main": "dist/wavesurfer.min.js",
   "name": "wavesurfer.js",
+  "optionalDependencies": {},
+  "readme": "# [wavesurfer.js](https://wavesurfer-js.org)\r\n\r\n[![npm version](https://img.shields.io/npm/v/wavesurfer.js.svg?style=flat)](https://www.npmjs.com/package/wavesurfer.js)\r\n![npm](https://img.shields.io/npm/dm/wavesurfer.js.svg) [![Join the chat at https://gitter.im/katspaugh/wavesurfer.js](https://badges.gitter.im/katspaugh/wavesurfer.js.svg)](https://gitter.im/katspaugh/wavesurfer.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)\r\n\r\nInteractive navigable audio visualization using Web Audio and Canvas.\r\n\r\n[![Screenshot](https://raw.githubusercontent.com/katspaugh/wavesurfer.js/gh-pages/example/screenshot.png \"Screenshot\")](https://wavesurfer-js.org)\r\n\r\nSee a [tutorial](https://wavesurfer-js.org/docs) and [examples](https://wavesurfer-js.org/examples) on [wavesurfer-js.org](https://wavesurfer-js.org).\r\n\r\n## Browser support\r\nwavesurfer.js works only in [modern browsers supporting Web Audio](http://caniuse.com/audio-api).\r\n\r\nIt will fallback to Audio Element in other browsers (without graphics). You can also try [wavesurfer.swf](https://github.com/laurentvd/wavesurfer.swf) which is a Flash-based fallback.\r\n\r\n## FAQ\r\n### Can the audio start playing before the waveform is drawn?\r\nYes, if you use the `backend: 'MediaElement'` option. See here: https://wavesurfer-js.org/example/audio-element/. The audio will start playing as you press play. A thin line will be displayed until the whole audio file is downloaded and decoded to draw the waveform.\r\n\r\n### Can drawing be done as file loads?\r\nNo. Web Audio needs the whole file to decode it in the browser. You can however load pre-decoded waveform data to draw the waveform immediately. See here: https://wavesurfer-js.org/example/audio-element/ (the \"Pre-recoded Peaks\" section).\r\n\r\n### Is wavesurfer.js ES6-compatible?\r\nES6 refactoring is going on in the `next` branch. In the meanwhile, you can import wavesurfer.js as an ES6 module via WebPack as described [here](https://github.com/katspaugh/wavesurfer.js/issues/767#issuecomment-267768714).\r\n\r\n## API in examples\r\n\r\nChoose a container:\r\n```html\r\n<div id=\"waveform\"></div>\r\n```\r\nCreate an instance, passing the container selector and [options](https://wavesurfer-js.org/docs/options.html):\r\n\r\n```javascript\r\nvar wavesurfer = WaveSurfer.create({\r\n    container: '#waveform',\r\n    waveColor: 'violet',\r\n    progressColor: 'purple'\r\n});\r\n```\r\n\r\nSubscribe to some [events](https://wavesurfer-js.org/docs/events.html):\r\n\r\n```javascript\r\nwavesurfer.on('ready', function () {\r\n    wavesurfer.play();\r\n});\r\n```\r\n\r\nLoad an audio file from a URL:\r\n\r\n```javascript\r\nwavesurfer.load('example/media/demo.wav');\r\n```\r\n\r\n## Documentation\r\n\r\nSee the documentation on all available [methods](https://wavesurfer-js.org/docs/methods.html), [options](https://wavesurfer-js.org/docs/options.html) and [events](https://wavesurfer-js.org/docs/events.html) on the [homepage](https://wavesurfer-js.org/docs/).\r\n\r\n## Related projects\r\n\r\nFor a list of  projects using wavesurfer.js, check out\r\n[the projects page](https://wavesurfer-js.org/projects/).\r\n\r\n## Development\r\n\r\n[![npm version](https://img.shields.io/npm/v/wavesurfer.js.svg?style=flat)](https://www.npmjs.com/package/wavesurfer.js)\r\n[![npm](https://img.shields.io/npm/dm/wavesurfer.js.svg)]()\r\n[![Build Status](https://travis-ci.org/katspaugh/wavesurfer.js.svg?branch=master)](https://travis-ci.org/katspaugh/wavesurfer.js)\r\n\r\nInstall `grunt-cli` using npm:\r\n\r\n```\r\nnpm install -g grunt-cli\r\n```\r\n\r\nInstall development dependencies:\r\n\r\n```\r\nnpm install\r\n```\r\n\r\nBuild a minified version of the library and plugins. This command also checks\r\nfor code-style mistakes and runs the tests:\r\n\r\n```\r\ngrunt\r\n```\r\n\r\nGenerated files are placed in the `dist` directory.\r\n\r\nRunning tests only:\r\n\r\n```\r\ngrunt test\r\n```\r\n\r\nCreating a coverage report:\r\n\r\n```\r\ngrunt coverage\r\n```\r\n\r\nThe HTML report can be found in `coverage/html/index.html`.\r\n\r\n## Editing documentation\r\nThe homepage and documentation files are maintained in the [`gh-pages` branch](https://github.com/katspaugh/wavesurfer.js/tree/gh-pages). Contributions to the documentation are especially welcome.\r\n\r\n## Credits\r\n\r\nInitial idea by [Alex Khokhulin](https://github.com/xoxulin). Many\r\nthanks to\r\n[the awesome contributors](https://github.com/katspaugh/wavesurfer.js/contributors)!\r\n\r\n## License\r\n\r\n[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)\r\n\r\nThis work is licensed under a\r\n[BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause).\r\n",
+  "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "git://github.com/katspaugh/wavesurfer.js.git"
   },
   "scripts": {
-    "build": "npm run build:normal & npm run build:minified",
-    "build:minified": "webpack --env.minify & webpack --env.plugins --env.minify & webpack --env.htmlinit --env.minify",
-    "build:normal": "webpack & webpack --env.plugins & webpack --env.htmlinit",
-    "doc": "esdoc",
-    "start": "webpack --env.plugins && webpack --env.htmlinit && webpack-dev-server",
-    "start:htmlinit": "webpack && webpack --env.plugins && webpack-dev-server --env.htmlinit",
-    "start:plugins": "webpack && webpack --env.htmlinit && webpack-dev-server --env.plugins",
-    "test": "BABEL_ENV=test karma start karma.conf.js"
+    "start": "grunt; ruby -run -e httpd . -p 8080",
+    "test": "grunt test"
   },
-  "version": "2.0.0-beta01"
+  "version": "1.4.0"
 }
